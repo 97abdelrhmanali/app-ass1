@@ -1,0 +1,16 @@
+.about{
+  background-color: #1abc9c !important;
+  color: white;
+  height: 100vh;
+}
+
+.about .line{
+  height: 5px;
+  width: 130px;
+  background-color: white !important;
+}
+
+
+.about .row p{
+  font-weight: 400;
+}

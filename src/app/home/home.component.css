@@ -1,0 +1,13 @@
+.home{
+  background-color: #1abc9c !important;
+  height: 100vh;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  color: white;
+}
+
+.home .line{
+  height: 5px;
+  width: 130px;
+  background-color: white;
+}
